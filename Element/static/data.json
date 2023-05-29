@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Olivia Anderson",
+      "profession": "Graphic Designe.",
+      "age": 28,
+      "genre": "IT"
+    },
+    {
+      "id": 2,
+      "name": "Ava Thompson",
+      "profession": "Engineer.",
+      "age": 31,
+      "genre": "IT"
+    },
+    {
+      "id": 3,
+      "name": "Benjamin Hall",
+      "profession": "Marketing Manager.",
+      "age": 39,
+      "genre": "IT"
+    },
+    {
+      "id": 4,
+      "name": "Sofia Murphy",
+      "profession": "Software Developer.",
+      "age": 45,
+      "genre": "IT"
+    },
+    {
+      "id": 5,
+      "name": "Carter Collins",
+      "profession": "Veterinarian.",
+      "age": 27,
+      "genre": "health"
+    },
+    {
+      "id": 6,
+      "name": "Grace Nelson",
+      "profession": "Software Developer.",
+      "age": 30,
+      "genre": "IT"
+    },
+    {
+      "id": 7,
+      "name": "Victoria Simmons",
+      "profession": "Dentist.",
+      "age": 29,
+      "genre": "health"
+    },
+    {
+      "id": 8,
+      "name": "Penelope Reed",
+      "profession": "Athlete.",
+      "age": 36,
+      "genre": "sports"
+    },
+    {
+      "id": 9,
+      "name": "Scarlett Reed",
+      "profession": "Artist.",
+      "age": 37,
+      "genre": "artistic"
+    },
+    {
+      "id": 10,
+      "name": "Hannah Morgan",
+      "profession": "Musician.",
+      "age": 43,
+      "genre": "artistic"
+    },
+    {
+      "id": 11,
+      "name": "Penelope Reed",
+      "profession": "Pharmacist.",
+      "age": 55,
+      "genre": "health"
+    },
+    {
+      "id": 12,
+      "name": "Chloe Adams",
+      "profession": "Nurse.",
+      "age": 42,
+      "genre": "health"
+    }
+  ]
+}
